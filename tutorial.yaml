@@ -1,0 +1,8 @@
+# 1) What is TypeScript?
+# TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+
+# 2) Why Learn TypeScript?
+# TypeScript offers several advantages over JavaScript, such as static typing, interfaces, enums, and advanced tooling support. These features can lead to fewer bugs, improved code quality, better IDE support, and enhanced developer productivity, especially in larger projects with complex codebases.
+
+# 3) How do I install TypeScript?
+# npm install typescript -g
